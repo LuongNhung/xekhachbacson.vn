@@ -39,6 +39,9 @@ ul li{
   margin-top:20px;
 }
 
+.booking-button-fixed{
+	display: none;
+}
 
 .text-booking-button{
 	text-transform: uppercase;
@@ -401,6 +404,20 @@ ul li{
 	.hero{
 		background-image: url("../images/bg3_400.webp");
 		height: 450px;
+	}
+	.booking-button-fixed{
+		display: block;
+	        position: fixed;
+	        bottom: 25px;
+	        right: 35px;
+	        padding: 12px 20px;
+	        background-color: #007BFF;
+	        color: white;
+	        border: none;
+	        border-radius: 25px;
+	        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+	        font-size: 16px;
+	        cursor: pointer;
 	}
 	.text-booking-button{
 		width:280px;
