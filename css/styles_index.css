@@ -41,7 +41,6 @@ ul li{
 
 .booking-button-fixed{
 	display: none;
-	background-color: #ed2b0e;
 }
 
 .text-booking-button{
@@ -412,7 +411,7 @@ ul li{
 	        bottom: 25px;
 	        right: 35px;
 	        padding: 12px 20px;
-	        background-color: #007BFF;
+	        background-color: #ed2b0e;
 	        color: white;
 	        border: none;
 	        border-radius: 25px;
@@ -481,4 +480,5 @@ ul li{
 		margin-bottom: 30px;
 	}
 }
+
 
